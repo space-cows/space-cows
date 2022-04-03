@@ -1,5 +1,5 @@
 <h1> <b> SpaceCows </b></h1><br>
-<img src="https://www.piratemoo.com/content/images/2021/08/website_logo_transparent_background--1-.png" width="350" height="300">
+<img src="https://www.spacecows.club/content/images/2022/04/cow1-3.png" width="350" height="300">
 
 🐄<b> SpaceCows </b>🐄 is an official CTF team where we enjoy playing together, breaking stuff and doing various capture the flag challenges.  
 We originally started as an information security group and eventually gravitated over to Discord to create this small but amazing community of friends! 
