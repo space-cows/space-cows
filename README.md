@@ -28,7 +28,7 @@ We originally started as an information security group and eventually gravitated
    * Ignoring ToS of a competition/site
    * Fighting with teammates
 
-
+<hr size="5" width="75%" color="blue">
 Contact <a href="https://www.twitter.com/apiratemoo">@piratemoo</a> on Twitter if you're interesting in being a part of our team!
 
 <!---
