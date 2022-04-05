@@ -8,7 +8,7 @@ We originally started as an information security group and eventually gravitated
 * We like to do ✨Hack the Box ✨ and ✨TryHackMe ✨
 * We are a learning community
 
-<img src="https://cdn.discordapp.com/attachments/916927968150945856/960255627203068024/line.png" width="150" height="100">
+<hr size="5" width="75%" color="blue">
 
 <b>Here you will find:</b> 
 * Our write-ups
